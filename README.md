@@ -1,6 +1,6 @@
 <img src="https://github.com/kiyakebe/kiyakebe/blob/1edd15a6e0f55b293769e9981db8e9198a59726c/github%20banner.jpeg">
 <h1 align="center">Hi 👋, I'm Kiya Kebe</h1>
-<h3 align="center">A passionate React Developer</h3>
+<h3 align="center">A passionated React Developer</h3>
 
 <img alt="Codding" align="right" width="400px" src="https://github.com/kiyakebe/kiyakebe/blob/8a61553e10b30fde0f4ddf590008a375a98325d9/coding.gif">
 

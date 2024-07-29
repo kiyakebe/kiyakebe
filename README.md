@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **React, Redux, Next.js and Django**
+- 💬 Ask me about **React, Next.js and Redux**
 
 - 📫 How to reach me **kiyakebe799@gmail.com**
 

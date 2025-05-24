@@ -1,4 +1,4 @@
-<img src="https://github.com/kiyakebe/kiyakebe/blob/1edd15a6e0f55b293769e9981db8e9198a59726c/github%20banner.jpeg">
+<img src="https://github.com/kiyakebe/kiyakebe/blob/main/github%20cover.jpg">
 <h1 align="center">Hi 👋, I'm Kiya Kebe</h1>
 <h3 align="center">A passionated React Developer</h3>
 

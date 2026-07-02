@@ -37,7 +37,7 @@ Passionate about crafting clean code, great UX, and shipping products that make 
 ---
 
 ## 🌐 Connect With Me
-- Portfolio: [kiyakebe.com](https://kiyakebe.com/)  
+- Portfolio: [kiyakebe.com](https://kiyakebe-portfolio.vercel.app/)  
 - LinkedIn: [linkedin.com/in/kiyakebe](https://www.linkedin.com/in/kiyakebe/)  
 - X: [@kiya_kebe](https://x.com/kiya_kebe?s=09)  
 - Email: kiyakebe799@gmail.com  

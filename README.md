@@ -9,7 +9,7 @@ Passionate about crafting clean code, great UX, and shipping products that make 
 
 ## 👨‍💻 About Me
 - 🌱 Currently exploring **AI + Web/Mobile integration**  
-- 💼 Open to freelance & collaboration opportunities  
+- 💼 Open to freelance & collaboration opportunitie
 - 🎯 Skilled in building **MVPs and production-ready apps**  
 - ✨ Fun fact: I enjoy solving **UX challenges** with creative code  
 
